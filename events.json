@@ -1,0 +1,241 @@
+{
+  "event": [
+    {
+      "id": 1,
+      "title": "Royal University of Phnom Penh (RUPP):",
+      "description": "Connect with our advisors virtually, gaining personalized insights and guidance from the comfort of your own space. Seamlessly schedule one-on-one meetings or group sessions, discussing your queries and goals in an interactive online environment.",
+      "image": "https://images.pexels.com/photos/1157557/pexels-photo-1157557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "eventType": "Online",
+      "color": "darkviolet",
+      "address": "55 180 Phnom Penh, 12211",
+      "date": "December 05, 2024 16:23September 05, 2024 16:23",
+      "totalJoin": "We arrange 1000 seats",
+      "tell": "800-644-3561",
+      "email": "university@royalphnompenh.edu.kh",
+      "detail": [
+        {
+          "id": 1,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://images.pexels.com/photos/1157557/pexels-photo-1157557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "As a librarian, there are certain moments that stick with me. When one of my students unexpectedly gave me a mutinous look, I knew it was the start of one of them."
+        },
+        {
+          "id": 2,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "description": "Bobby had always been an affable student, but one day when I asked him to return the book he had been reading, he gave me the look. At first, I didn’t understand. It was a small ask after all. The book was brand new, one I hadn’t catalogued or even stamped with the school’s name yet. It was not ready to be loaned out.",
+          "img": "https://www.rupp.edu.kh/img/slideshow01.jpg"
+        },
+        {
+          "id": 3,
+          "type": "Map",
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15282225.79979123!2d73.7250245393691!3d20.750301298393563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1587818542745!5m2!1sen!2sin",
+          "description": "It turns out, I had inadvertently stumbled upon something special. Bobby, like all the 8th grade students in our school that year, was reading The Outsiders by S.E. Hinton. I just had received several copies of the title in large print so I asked Bobby to switch from reading his regular print to the larger text. I was curious to see if he would notice any difference between the two formats. Bobby obliged and spent the rest of the period quietly reading, but when the bell rang and it was time to return the book that’s when he gave me the look."
+        }
+      ],
+      "members": []
+    },
+    {
+      "id": 2,
+      "title": "National University of Management (NUM)",
+      "description": "Collaborate directly with our advisors in a paired setting just outside our doors. This personalized interaction allows for focused discussions and tailored guidance, leveraging the advantages of in-person connections.",
+      "image": "https://z-p3-scontent.fpnh5-2.fna.fbcdn.net/v/t39.30808-6/415005770_762246139263273_4593780278973991292_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_ohc=jl2OWrTY0EkAX_FKwqW&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-2.fna&oh=00_AfBvmkuWTHtDkGK5tFEWHcfhkfNGfYtMUCsDOKm0_6wCCQ&oe=659BC886",
+      "eventType": "FaceToFace",
+      "color": "#05149c",
+      "address": "55 180 Phnom Penh, 12211",
+      "date": "December 05, 2024 16:23September 05, 2024 16:23",
+      "totalJoin": "We arrange 1000 seats",
+      "tell": "800-644-3561",
+      "email": "university@national.edu.kh",
+      "detail": [
+        {
+          "id": 1,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://z-p3-scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/416239379_762247582596462_1508714553391387685_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=PshfGlI8DvsAX-esccq&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-4.fna&oh=00_AfAb9UQPOpUhgGEiL6eoIEfWdq6cofKTb8zGabneg5YeEw&oe=659CCC1E",
+          "description": "As a librarian, there are certain moments that stick with me. When one of my students unexpectedly gave me a mutinous look, I knew it was the start of one of them."
+        },
+        {
+          "id": 2,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "description": "Bobby had always been an affable student, but one day when I asked him to return the book he had been reading, he gave me the look. At first, I didn’t understand. It was a small ask after all. The book was brand new, one I hadn’t catalogued or even stamped with the school’s name yet. It was not ready to be loaned out.",
+          "img": "https://z-p3-scontent.fpnh5-2.fna.fbcdn.net/v/t39.30808-6/416219444_762248442596376_1572915617146511174_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=3635dc&_nc_ohc=rUKM60EVX4kAX8gNGm7&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-2.fna&oh=00_AfBHc2ai4_VCPkOqKt-v5U1AVFT2JoDmVuMB8VxMHJ1nYA&oe=659C8815"
+        },
+        {
+          "id": 3,
+          "type": "Map",
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15282225.79979123!2d73.7250245393691!3d20.750301298393563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1587818542745!5m2!1sen!2sin",
+          "description": "It turns out, I had inadvertently stumbled upon something special. Bobby, like all the 8th grade students in our school that year, was reading The Outsiders by S.E. Hinton. I just had received several copies of the title in large print so I asked Bobby to switch from reading his regular print to the larger text. I was curious to see if he would notice any difference between the two formats. Bobby obliged and spent the rest of the period quietly reading, but when the bell rang and it was time to return the book that’s when he gave me the look."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Institute of Technology of Cambodia (ITC):",
+      "description": "Collaborate directly with our advisors in a paired setting just outside our doors. This personalized interaction allows for focused discussions and tailored guidance, leveraging the advantages of in-person connections.",
+      "image": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-6/348224513_603871081808064_626045182292536876_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=783fdb&_nc_ohc=plDkakqS8r4AX_6TQiH&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfBsLpJTB0D6_b2R_efItIPv69PpVyuv6eQi4Af0U2ZJRw&oe=659BF5B5",
+      "eventType": "FaceToFace",
+      "color": "#4a0343",
+      "address": "55 180 Phnom Penh, 12211",
+      "date": "December 05, 2024 16:23September 05, 2024 16:23",
+      "totalJoin": "We arrange 1000 seats",
+      "tell": "800-644-3561",
+      "email": "university@instituteoftechnology.edu.kh",
+      "detail": [
+        {
+          "id": 1,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-6/348224513_603871081808064_626045182292536876_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=783fdb&_nc_ohc=plDkakqS8r4AX_6TQiH&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfBsLpJTB0D6_b2R_efItIPv69PpVyuv6eQi4Af0U2ZJRw&oe=659BF5B5",
+          "description": "As a librarian, there are certain moments that stick with me. When one of my students unexpectedly gave me a mutinous look, I knew it was the start of one of them."
+        },
+        {
+          "id": 2,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "description": "Bobby had always been an affable student, but one day when I asked him to return the book he had been reading, he gave me the look. At first, I didn’t understand. It was a small ask after all. The book was brand new, one I hadn’t catalogued or even stamped with the school’s name yet. It was not ready to be loaned out.",
+          "img": "https://z-p3-scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/417159898_769928048497930_3316640365746775964_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=2y4mjyEn2okAX-qbMew&_nc_zt=23&_nc_ht=z-p3-scontent.fpnh5-4.fna&oh=00_AfBuaQxJDxVjW4D3mZ1pUOdOW5l6CJxhQ2_1gWqyDz5oSQ&oe=659C012A"
+        },
+        {
+          "id": 3,
+          "type": "Map",
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15282225.79979123!2d73.7250245393691!3d20.750301298393563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1587818542745!5m2!1sen!2sin",
+          "description": "It turns out, I had inadvertently stumbled upon something special. Bobby, like all the 8th grade students in our school that year, was reading The Outsiders by S.E. Hinton. I just had received several copies of the title in large print so I asked Bobby to switch from reading his regular print to the larger text. I was curious to see if he would notice any difference between the two formats. Bobby obliged and spent the rest of the period quietly reading, but when the bell rang and it was time to return the book that’s when he gave me the look."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Paññāsāstra University of Cambodia (PUC)",
+      "description": "As a librarian, there are certain moments that stick with me. When one of my students unexpectedly gave me a mutinous look, I knew it was the start of one of them.",
+      "image": "https://educab.jollyany.co/images/tz_educab/product-school-D0rMhzEwiEA-unsplash.jpg",
+      "eventType": "FaceToFace",
+      "color": "#013012",
+      "address": "55 180 Phnom Penh, 12211",
+      "date": "December 05, 2024 16:23September 05, 2024 16:23",
+      "totalJoin": "We arrange 1000 seats",
+      "tell": "800-644-3561",
+      "email": "university@paññāsāstra.edu.kh",
+      "detail": [
+        {
+          "id": 1,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://educab.jollyany.co/images/tz_educab/product-school-D0rMhzEwiEA-unsplash.jpg",
+          "description": "As a librarian, there are certain moments that stick with me. When one of my students unexpectedly gave me a mutinous look, I knew it was the start of one of them."
+        },
+        {
+          "id": 2,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "description": "Bobby had always been an affable student, but one day when I asked him to return the book he had been reading, he gave me the look. At first, I didn’t understand. It was a small ask after all. The book was brand new, one I hadn’t catalogued or even stamped with the school’s name yet. It was not ready to be loaned out.",
+          "img": "https://www.puc.edu.kh/images/2023/IFL/8.jpg"
+        },
+        {
+          "id": 3,
+          "type": "Map",
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15282225.79979123!2d73.7250245393691!3d20.750301298393563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1587818542745!5m2!1sen!2sin",
+          "description": "It turns out, I had inadvertently stumbled upon something special. Bobby, like all the 8th grade students in our school that year, was reading The Outsiders by S.E. Hinton. I just had received several copies of the title in large print so I asked Bobby to switch from reading his regular print to the larger text. I was curious to see if he would notice any difference between the two formats. Bobby obliged and spent the rest of the period quietly reading, but when the bell rang and it was time to return the book that’s when he gave me the look."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "University of Battambang (UBB):",
+      "description": "As school districts nationwide grapple with re-entry concerns during the COVID-19 pandemic, the most basic needs of some of our most vulnerable children may be overlooked. One such population is children with hearing loss.",
+      "image": "https://images.pexels.com/photos/159775/library-la-trobe-study-students-159775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "color": "#ff9900",
+      "address": "55 180 Phnom Penh, 12211",
+      "date": "December 05, 2024 16:23September 05, 2024 16:23",
+      "totalJoin": "We arrange 1000 seats",
+      "tell": "800-644-3561",
+      "email": "university@battambang.edu.kh",
+      "detail": [
+        {
+          "id": 1,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://images.pexels.com/photos/159775/library-la-trobe-study-students-159775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "description": "As a librarian, there are certain moments that stick with me. When one of my students unexpectedly gave me a mutinous look, I knew it was the start of one of them."
+        },
+        {
+          "id": 2,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "description": "Bobby had always been an affable student, but one day when I asked him to return the book he had been reading, he gave me the look. At first, I didn’t understand. It was a small ask after all. The book was brand new, one I hadn’t catalogued or even stamped with the school’s name yet. It was not ready to be loaned out.",
+          "img": "https://ubblab.weebly.com/uploads/4/7/4/6/47469791/header_images/1424099713.jpg"
+        },
+        {
+          "id": 3,
+          "type": "Map",
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15282225.79979123!2d73.7250245393691!3d20.750301298393563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1587818542745!5m2!1sen!2sin",
+          "description": "It turns out, I had inadvertently stumbled upon something special. Bobby, like all the 8th grade students in our school that year, was reading The Outsiders by S.E. Hinton. I just had received several copies of the title in large print so I asked Bobby to switch from reading his regular print to the larger text. I was curious to see if he would notice any difference between the two formats. Bobby obliged and spent the rest of the period quietly reading, but when the bell rang and it was time to return the book that’s when he gave me the look."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Asia Europe University (AEU)",
+      "description": "The saying goes, “If you’ve met one individual with autism, you’ve met one.” As one person on the Autism spectrum may be highly verbal, another maybe non-verbal. As one may not be able to tolerate touch, another may be extremely tactile.",
+      "image": "https://educab.jollyany.co/images/tz_educab/hanny-naibaho-aWXVxy8BSzc-unsplash.jpg",
+      "eventType": "FaceToFace",
+      "color": "\t#8000ff",
+      "address": "55 180 Phnom Penh, 12211",
+      "date": "December 05, 2024 16:23September 05, 2024 16:23",
+      "totalJoin": "We arrange 1000 seats",
+      "tell": "800-644-3561",
+      "email": "university@asiaeurope.edu.kh",
+      "detail": [
+        {
+          "id": 1,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://educab.jollyany.co/images/tz_educab/hanny-naibaho-aWXVxy8BSzc-unsplash.jpg",
+          "description": "As a librarian, there are certain moments that stick with me. When one of my students unexpectedly gave me a mutinous look, I knew it was the start of one of them."
+        },
+        {
+          "id": 2,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "description": "Bobby had always been an affable student, but one day when I asked him to return the book he had been reading, he gave me the look. At first, I didn’t understand. It was a small ask after all. The book was brand new, one I hadn’t catalogued or even stamped with the school’s name yet. It was not ready to be loaned out.",
+          "img": "https://studyinchinas.com/wp-content/uploads/2018/11/aebs1-e1568697812516.jpg"
+        },
+        {
+          "id": 3,
+          "type": "Map",
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15282225.79979123!2d73.7250245393691!3d20.750301298393563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1587818542745!5m2!1sen!2sin",
+          "description": "It turns out, I had inadvertently stumbled upon something special. Bobby, like all the 8th grade students in our school that year, was reading The Outsiders by S.E. Hinton. I just had received several copies of the title in large print so I asked Bobby to switch from reading his regular print to the larger text. I was curious to see if he would notice any difference between the two formats. Bobby obliged and spent the rest of the period quietly reading, but when the bell rang and it was time to return the book that’s when he gave me the look."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "University of Puthisastra (UP)",
+      "description": "Inwood sees many aspiring teachers eager to use environmental education as a way to teach their future students about skills like communication, collaboration, and critical thinking. These discussions, however, aren’t new to them; many participated in environmental education programs when they were in elementary and secondary school.",
+      "image": "https://www.puthisastra.edu.kh/wp-content/uploads/2019/02/Orientation_on_E-library_of_University_of_Puthisastra_2.jpg",
+      "color": "#030980",
+      "address": "55 180 Phnom Penh, 12211",
+      "date": "December 05, 2024 16:23September 05, 2024 16:23",
+      "totalJoin": "We arrange 1000 seats",
+      "tell": "23 221 624",
+      "email": "university@puthisastra.edu.kh",
+      "detail": [
+        {
+          "id": 1,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://www.puthisastra.edu.kh/wp-content/uploads/2019/02/Orientation_on_E-library_of_University_of_Puthisastra_2.jpg",
+          "description": "As a librarian, there are certain moments that stick with me. When one of my students unexpectedly gave me a mutinous look, I knew it was the start of one of them."
+        },
+        {
+          "id": 2,
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "description": "Bobby had always been an affable student, but one day when I asked him to return the book he had been reading, he gave me the look. At first, I didn’t understand. It was a small ask after all. The book was brand new, one I hadn’t catalogued or even stamped with the school’s name yet. It was not ready to be loaned out.",
+          "img": "https://www.puthisastra.edu.kh/wp-content/uploads/2018/09/Campus-Information-570-x-300_570x300.jpg"
+        },
+        {
+          "id": 3,
+          "type": "Map",
+          "title": "DUIS AUTE IRURE DOLOR IN REPREHENDERIT",
+          "img": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15282225.79979123!2d73.7250245393691!3d20.750301298393563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sen!2sin!4v1587818542745!5m2!1sen!2sin",
+          "description": "It turns out, I had inadvertently stumbled upon something special. Bobby, like all the 8th grade students in our school that year, was reading The Outsiders by S.E. Hinton. I just had received several copies of the title in large print so I asked Bobby to switch from reading his regular print to the larger text. I was curious to see if he would notice any difference between the two formats. Bobby obliged and spent the rest of the period quietly reading, but when the bell rang and it was time to return the book that’s when he gave me the look."
+        }
+      ]
+    }
+  ]
+}

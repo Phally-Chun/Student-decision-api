@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Jonathan Howatt",
+    "position": "Professor of Chemistry",
+    "photo": "https://educab.jollyany.co/images/mubariz-mehdizadeh-364026-unsplash.jpg",
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "facebook": "john.doe.facebook",
+    "instagram": "john.doe.instagram",
+    "telegram": "john_doe_telegram"
+  },
+  {
+    "name": "Ahin Xian",
+    "position": "Professor of Mathematics",
+    "photo": "https://educab.jollyany.co/images/luis-villasmil-1222180-unsplash.jpg",
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "facebook": "john.doe.facebook",
+    "instagram": "john.doe.instagram",
+    "telegram": "john_doe_telegram"
+  },
+  {
+    "name": "Phillip Doe",
+    "position": "Professor of Geograph",
+    "photo": "https://educab.jollyany.co/images/2020/11/19/marius-ciocirlan-398931-unsplash.jpg",
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "facebook": "john.doe.facebook",
+    "instagram": "john.doe.instagram",
+    "telegram": "john_doe_telegram"
+  },
+  {
+    "name": "Alisa Katherine",
+    "position": "Professor of Physics",
+    "photo": "https://educab.jollyany.co/images/daria-tumanova-311044-unsplash.jpg",
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "facebook": "john.doe.facebook",
+    "instagram": "john.doe.instagram",
+    "telegram": "john_doe_telegram"
+  },
+  {
+    "name": "Bella Lee",
+    "position": "Associate Professor of History",
+    "photo": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "phoneNumber": "+9876543210",
+    "email": "bella.lee.facebook",
+    "facebook": "john.doe.facebook",
+    "instagram": "bella.lee.instagram",
+    "telegram": "bella_lee_telegram"
+  },
+
+  {
+    "name": "Chris Taylor",
+    "position": "Senior Lecturer of Computer Science",
+    "photo": "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "phoneNumber": "+1122334455",
+    "email": "chris.taylor@example.com",
+    "facebook": "chris.taylor.facebook",
+    "instagram": "chris.taylor.instagram",
+    "telegram": "chris_taylor_telegram"
+  },
+  {
+    "name": "Diana Smith",
+    "position": "Assistant Professor of Chemistry",
+    "photo": "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "phoneNumber": "+4455667788",
+    "email": "diana.smith@example.com",
+    "facebook": "diana.smith.facebook",
+    "instagram": "diana.smith.instagram",
+    "telegram": "diana_smith_telegram"
+  },
+  {
+    "name": "Ethan Brown",
+    "position": "Lecturer of Physics",
+    "photo": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+9988776655",
+    "email": "ethan.brown@example.com",
+    "facebook": "ethan.brown.facebook",
+    "instagram": "ethan.brown.instagram",
+    "telegram": "ethan_brown_telegram"
+  },
+  {
+    "name": "Fiona Chen",
+    "position": "Professor of Economics",
+    "photo": "https://images.pexels.com/photos/3772510/pexels-photo-3772510.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+1122334455",
+    "email": "fiona.chen@example.com",
+    "facebook": "fiona.chen.facebook",
+    "instagram": "fiona.chen.instagram",
+    "telegram": "fiona_chen_telegram"
+  },
+  {
+    "name": "Gary Johnson",
+    "position": "Associate Professor of English",
+    "photo": "https://images.pexels.com/photos/3775087/pexels-photo-3775087.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+3344556677",
+    "email": "gary.johnson@example.com",
+    "facebook": "gary.johnson.facebook",
+    "instagram": "gary.johnson.instagram",
+    "telegram": "gary_johnson_telegram"
+  },
+  {
+    "name": "Hannah White",
+    "position": "Senior Lecturer of Psychology",
+    "photo": "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+1122334455",
+    "email": "hannah.white@example.com",
+    "facebook": "hannah.white.facebook",
+    "instagram": "hannah.white.instagram",
+    "telegram": "hannah_white_telegram"
+  },
+  {
+    "name": "Ian Miller",
+    "position": "Assistant Professor of Biology",
+    "photo": "https://images.pexels.com/photos/5212361/pexels-photo-5212361.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+1122334455",
+    "email": "ian.miller@example.com",
+    "facebook": "ian.miller.facebook",
+    "instagram": "ian.miller.instagram",
+    "telegram": "ian_miller_telegram"
+  },
+  {
+    "name": "Jasmine Park",
+    "position": "Lecturer of Environmental Science",
+    "photo": "https://images.pexels.com/photos/6981004/pexels-photo-6981004.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+1122334455",
+    "email": "jasmine.park@example.com",
+    "facebook": "jasmine.park.facebook",
+    "instagram": "jasmine.park.instagram",
+    "telegram": "jasmine_park_telegram"
+  },
+  {
+    "name": "Katherine Smith",
+    "position": "Professor of Sociology",
+    "photo": "https://images.pexels.com/photos/8653652/pexels-photo-8653652.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+1122334455",
+    "email": "katherine.smith@example.com",
+    "facebook": "katherine.smith.facebook",
+    "instagram": "katherine.smith.instagram",
+    "telegram": "katherine_smith_telegram"
+  },
+  {
+    "name": "Leo Rodriguez",
+    "position": "Associate Professor of Political Science",
+    "photo": "https://images.pexels.com/photos/5186399/pexels-photo-5186399.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+3344556677",
+    "email": "leo.rodriguez@example.com",
+    "facebook": "leo.rodriguez.facebook",
+    "instagram": "leo.rodriguez.instagram",
+    "telegram": "leo_rodriguez_telegram"
+  },
+  {
+    "name": "Mia Chen",
+    "position": "Lecturer of Environmental Studies",
+    "photo": "https://images.pexels.com/photos/6503001/pexels-photo-6503001.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "phoneNumber": "+5566778899",
+    "email": "mia.chen@example.com",
+    "facebook": "mia.chen.facebook",
+    "instagram": "mia.chen.instagram",
+    "telegram": "mia_chen_telegram"
+  }
+]
